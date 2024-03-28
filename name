@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo -n "Enter your firstname: "
 read firstname
 echo -n "Enter your lastname: "
