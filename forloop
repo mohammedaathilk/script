@@ -1,0 +1,7 @@
+#!/bin/bash
+for var in Aa aa gj gr rr 
+
+do 
+   echo $var
+   
+done
